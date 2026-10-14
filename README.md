@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there! 👋 I'm Anna Sofia Moro
+
+### 📄 Curriculum Vitae
+You can find more details about my education and research experience in my resume:
+📎 [View my CV in PDF](AnnaSofiaMoroCV.pdf)
+
+### 📫 How to reach me
+* **LinkedIn:** [www.linkedin.com/in/annasofiamoro/](www.linkedin.com/in/annasofiamoro/)
+* **Email:** [annasofiamoro@gmail.com](mailto:annasofiamoro@gmail.com), [anna.sofia.moro@cern.ch](mailto:anna.sofia.moro@cern.ch)
 
 <!--
 **annaasofia/annaasofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
