@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Anna Sofia Moro
 
 ### 📄 Curriculum Vitae
-You can find more details about my education and research experience in my resume:
+You can find more details about my education and research experience in my resume:  
 📎 [View my CV in PDF](AnnaSofiaMoroCV.pdf)
 
 ### 📫 How to reach me
